@@ -1,2 +1,2 @@
 # data-science-bootcamp
-my data analysis portfolio
+my data science portfolio
